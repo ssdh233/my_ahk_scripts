@@ -1,4 +1,4 @@
-MIC_DEVICE_ID := 10
+MIC_DEVICE_ID := 11
 
 RemoveToolTip:
 SetTimer, RemoveToolTip, Off
